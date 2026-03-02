@@ -26,15 +26,15 @@ I build structured, insight-driven dashboards using Power BI, SQL, and Excel to 
 
 ### 🏥 ER Operations & Patient Experience Dashboard
 Interactive Power BI dashboard analyzing hospital performance metrics.  
-🔗 https://github.com/deborahjoshua/er-analytics-dashboard
+🔗https://github.com/deborahjoshua/Emergency-Room-Analytics-Dashboard
 
 ### 🛒 Superstore Sales Performance Dashboard
 Multi-page sales and profitability analysis with KPI tracking and regional breakdown.  
-🔗 https://github.com/deborahjoshua/superstore_sales_dashboard
+🔗https://github.com/deborahjoshua/superstore_sales_dashboard
 
 ### 🚲 Bike Store SQL Sales Analysis
 SQL-driven revenue and inventory performance analysis.  
-🔗 https://github.com/deborahjoshua/bike-store-sql-analysis
+🔗 https://github.com/deborahjoshua/excel-sql-sales-analysis
 
 ---
 
