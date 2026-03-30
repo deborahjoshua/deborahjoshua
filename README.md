@@ -24,13 +24,17 @@ I build structured, insight-driven dashboards using Power BI, SQL, and Excel to 
 
 ## 📊 Featured Projects
 
-### 🏥 ER Operations & Patient Experience Dashboard
-Interactive Power BI dashboard analyzing hospital performance metrics.  
-🔗https://github.com/deborahjoshua/Emergency-Room-Analytics-Dashboard
+### 📢 Nigeria Tax Law Public Sentiment Analysis Dashboard
+Analysis of public reaction to Nigeria’s new tax law using social media data, highlighting sentiment trends, engagement patterns, and key concerns.  
+🔗 https://github.com/deborahjoshua/Public-Reaction-to-Nigeria-s-New-Tax-Law-
 
 ### 🛒 Superstore Sales Performance Dashboard
 Multi-page sales and profitability analysis with KPI tracking and regional breakdown.  
-🔗https://github.com/deborahjoshua/superstore_sales_dashboard
+🔗 https://github.com/deborahjoshua/superstore_sales_dashboard
+
+### 🏥 ER Operations & Patient Experience Dashboard
+Interactive Power BI dashboard analyzing hospital performance metrics.  
+🔗 https://github.com/deborahjoshua/Emergency-Room-Analytics-Dashboard
 
 ### 🚲 Bike Store SQL Sales Analysis
 SQL-driven revenue and inventory performance analysis.  
